@@ -1,0 +1,20 @@
+  .disabled {
+    background-color: white;
+    color:black;
+  }
+  
+  .focus {
+    background-color:#1E90FF;
+    border:1px #1E90FF;
+    outline: #1E90FF;  
+    opacity: 0;
+    pointer-events:painted;
+  }
+
+  .desabilitarCursor {
+    cursor:none;
+  }
+
+  .habilitarCursor {
+    pointer-events:painted;
+  }

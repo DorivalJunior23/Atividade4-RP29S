@@ -1,0 +1,50 @@
+{
+  "name": "alone-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "file-saver": "^2.0.5",
+    "js-cookie": "^2.2.1",
+    "pdfmake": "^0.2.0",
+    "qs": "^6.10.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-qr-code": "^2.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-to-print": "^2.12.6",
+    "web-vitals": "^1.1.2",
+    "xlsx": "^0.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts --max_old_space_size=2048 start",
+    "build": "react-scripts --max_old_space_size=2048 build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

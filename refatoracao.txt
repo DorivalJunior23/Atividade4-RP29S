@@ -12,3 +12,13 @@
      - EstoqueFactory: Responsável por criar instâncias de objetos Estoque com valores padrão.
 
 Esses padrões foram aplicados no projeto para melhorar a organização do código, facilitar manutenções futuras e possibilitar a troca do banco de dados sem impacto direto no restante da aplicação.
+
+Link do projeto original: https://github.com/HenriqueSouzaa/Alone_Market/tree/master
+
+Alunos:
+Dorival Soareas da Silva Junior - 2384965
+Leandro Girotto Cabrini Junior - 2383403
+Ricardo Daniel Gayoso Torrez - 2372657
+João Pedro Cervino Barbosa - 2372576
+
+link do projeto alterado: https://github.com/DorivalJunior23/Atividade4-RP29S
